@@ -3,7 +3,7 @@
 
 // Cree un bucle for en JS que imprima cada nombre en esta lista. 
 
-let miLista = ["velma", "exploradora", "jane", "john", "harry"];
+let miLista = ["velma", "exploradora", "jane", "john", "harry"]; 
 
 for (let elemento in miLista) {
     console.log(miLista[elemento]);
